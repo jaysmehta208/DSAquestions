@@ -1,8 +1,7 @@
 package Arrays;
 
 // Given an array with all distinct elements, find the largest three elements
-// O(n) : Time Complexity
-// O(1) Auxiliary space
+
 
 public class largest3elements {
     public static void main(String[] args) {
@@ -30,7 +29,6 @@ public class largest3elements {
 
 
     }
-
-
-
+// O(n) : Time Complexity
+// O(1) Auxiliary space
 }

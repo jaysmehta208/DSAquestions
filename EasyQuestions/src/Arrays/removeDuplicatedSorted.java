@@ -34,5 +34,7 @@ public class removeDuplicatedSorted {
         System.out.println(Arrays.toString(nums));
     }
 }
+
+// Two-pointer approach
 // O(n) : Time complexity
 // O(1) : Space Complexity
