@@ -2,6 +2,8 @@ package Arrays;
 // Had to check method
 // Time Complexity : O(2n)
 // Space Complexity : O(1)
+
+// Given an array arr[] of size N and an integer K, the task is to left rotate the array K indexes
 import java.util.Arrays;
 
 public class leftRotateKPlaces {
