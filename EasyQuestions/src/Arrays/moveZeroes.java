@@ -1,9 +1,10 @@
 package Arrays;
 
+// Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero
+// elements.
+//
+// Note that you must do this in-place without making a copy of the array.
 public class moveZeroes {
-    public static void main(String[] args) {
-
-    }
     public void moveZeroes(int[] nums) {
         int j = 0;
         for (int i = 0; i < nums.length;i++) {
@@ -17,3 +18,6 @@ public class moveZeroes {
         }
     }
 }
+
+// Time complexity : O(n+x), x is number of 0s
+// Space complexity : O(1)

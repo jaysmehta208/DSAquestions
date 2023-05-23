@@ -1,3 +1,6 @@
 1) Think about reversing array to play with numbers
-2) Two pointer approach just has another index iterator (including the for loop index iterator of array) based on a
+2) Also use the sum of all numbers in array if useful
+3) Two pointer approach just has another index iterator (including the for loop index iterator of array) based on a
 condition
+4)  - XOR of two numbers.... XOR of identical numbers is 0,  XOR with one number 0 = other number... e.g 2 ^ 3 = 1
+    - XOR of all natural numbers is less than sum of all natural numbers (less space taken)
