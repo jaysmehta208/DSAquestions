@@ -1,5 +1,5 @@
 package Arrays;
-
+// GOT
 import java.util.Arrays;
 // Rotate Array by 1 places
 public class leftRotate1Place {
