@@ -4,3 +4,4 @@
 condition
 4)  - XOR of two numbers.... XOR of identical numbers is 0,  XOR with one number 0 = other number... e.g 2 ^ 3 = 1
     - XOR of all natural numbers is less than sum of all natural numbers (less space taken)
+5) If algorithm is based on division of N by some number, then the time complexity will be logarithmic
