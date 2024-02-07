@@ -1,0 +1,17 @@
+Data Types:
+- int : Stores numbers from -2,147,483,648 to 2,147,483,647
+- long: Wider range than integer (-10^12 to 10^12)
+- long long: Even bigger range (-10^18 to 10^18)
+- float: For decimals
+- double: Bigger range of decimals
+- string: picks up first word (before space/newline)
+    To get entire line, use getline()
+    e.g string str;
+        getline(cin, str);
+    represented with double quotes
+- char: To store one of 256 characters in the English dictionary
+    represented with single quotes
+
+
+
+
