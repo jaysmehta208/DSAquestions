@@ -1,0 +1,8 @@
+Space Complexity:
+ - Auxiliary Space: Space taken to solve the problem
+ - Input Space: Space taken to store the input
+
+In competitive programming, platforms take 
+ - 1 second for 10^8 operations (So code should be O(10^18))
+ - 2 seconds for 2 * 10^8 operations 
+Imp point: Never do anything to the input to save space
