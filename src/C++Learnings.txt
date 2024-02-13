@@ -1,5 +1,0 @@
-Converting integer to string
-- std::to_string()
-
-Reversing string str
-- reverse(str.being(), str.end());
