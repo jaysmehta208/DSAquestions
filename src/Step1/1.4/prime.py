@@ -1,0 +1,1 @@
+# To check if number is prime, run loop till square root of number, follow print_divisors.py

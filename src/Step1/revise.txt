@@ -1,0 +1,11 @@
+1.4
+    - hcf.py : uses Euclidean Algorithm
+
+1.5
+    - print_1_to_N.py : forward tracking and backtracking
+    - sum_first_n_numbers.py : paramaterised and functional recursion
+
+    Notes: 
+        - Stack (Auxiliary) Space Complexity is also present in recursion
+        - Storing certain values before recursive call is useful in remebering those values for actions after recursive call
+        

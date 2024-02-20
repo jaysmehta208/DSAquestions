@@ -1,2 +1,0 @@
-1.4
-    - hcf.py : uses Euclidean Algorithm
