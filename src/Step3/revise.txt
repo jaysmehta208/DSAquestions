@@ -1,0 +1,3 @@
+3.1
+    - list.remove() takes an occurence of element as parameter
+    - list.pop() takes an index as parameter
