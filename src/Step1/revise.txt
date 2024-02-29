@@ -9,4 +9,8 @@
         - Stack (Auxiliary) Space Complexity is also present in recursion
         - Storing certain values before recursive call is useful in remebering those values for actions after recursive call
         - chr() for int -> char and ord() for char -> int, 128 charachters in python ASCII table
-        
+
+1.6
+    - highest_lowest_freq.py : 
+        * make sure to simplify solution, using multiple O(n) loops one after other is not a problem, does not increase complexity
+        * use import sys : sys.maxsize for maximum integer, -sys.minsize - 1 for minimum integer
