@@ -1,3 +1,16 @@
 3.1
-    - list.remove() takes an occurence of element as parameter
-    - list.pop() takes an index as parameter
+    - remove_duplicates_sorted_array.py : 
+        * list.remove() takes an occurence of element as parameter
+        * list.pop() takes an index as parameter
+    - rotate_array.py :
+        * cannot access / store value at index of list not already assigned. To initialise list, just do l = [0] * k, k = len(l) needed.
+        * do not reinitialise list inside function when doing in-place changes, reinitialising the list inside function does not change 
+          list outside function
+    - move_zero.py :
+        * Two pointer approach: One pointer moves slower than the other and does the necessary operation on the data while the other 
+          iterates through all the data
+    - find_missing_no.py :
+        * xor of two numbers: x^x = 0, 0^x = x
+        * xor is a bitwise operator and hence is a fast operation
+    - longest_subarray_sum_k_positive.py: Two pointer approach
+    
