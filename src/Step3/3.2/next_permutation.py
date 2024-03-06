@@ -55,5 +55,5 @@ def nextPermutation(nums: List[int]) -> None:
 nums = [9,8,7,6,5]
 nextPermutation(nums)
 
-# Time complexity: O(n)
+# Time complexity: O(3n) = O(n)
 # Space complexity: O(1)
