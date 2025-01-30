@@ -1,7 +1,7 @@
 class Solution:
     def vowelStrings(self, words: List[str], queries: List[List[int]]) -> List[int]:
-        d = {}
-        # d = [0]*(len(words))
+        # d = {}
+        d = [0]*(len(words))
         count = 0
         for i in range(len(words)):
             if words[i][0] in 'aeiou' and words[i][len(words[i])-1] in 'aeiou':
